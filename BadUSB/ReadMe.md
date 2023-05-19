@@ -13,6 +13,8 @@ Protip: Change the VID/PID to further trust of your device. [Great searchable li
 
 Don't forget to check out some other friends too! [I-Am-Jakoby](https://github.com/I-Am-Jakoby) | [Øiphori3](https://github.com/0iphor13) | [Hak5](https://hak5.org/blogs/payloads)
 
+Some others I've found but can't vouch for (but worth exploring!) [SIGUrger](https://github.com/SIGUrger/FlipperZeroBadusb)
+
 Thirsty for more? Here's some light reading (lol) about the [USB HID spec](https://usb.org/sites/default/files/hut1_3_0.pdf).
 
 -----
@@ -29,7 +31,8 @@ I've had so many asking for me to add this.<br>
 **BTC**: `3AWgaL3FxquakP15ZVDxr8q8xVTc5Q75dS`<br>
 **BCH**: `17nWCvf2YPMZ3F3H1seX8T149Z9E3BMKXk`<br>
 **ETH**: `0x0f0003fCB0bD9355Ad7B124c30b9F3D860D5E191`<br>
-**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`
+**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`<br>
+**PayPal**: `uberguidoz@gmail.com`
 
 So, here it is. All donations of *any* size are humbly appreciated.<br>
 ![Flipper_Clap](https://user-images.githubusercontent.com/57457139/183561789-2e853ede-8ef7-41e8-a67c-716225177e5d.jpg) ![Flipper_OMG](https://user-images.githubusercontent.com/57457139/183561787-e21bdc1e-b316-4e67-b327-5129503d0313.jpg)

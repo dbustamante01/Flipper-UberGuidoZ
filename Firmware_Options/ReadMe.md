@@ -4,9 +4,16 @@
 
 Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases)
 
-Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases)
+SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official, remains locked*
 
-RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
+Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases) *Fork of Official, unlocks many things*
+
+RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Official, Features of Unleashed, many customizations*<br>
+*- (NOTE: Current builds available with Patreon subscription, weekly builds released on Github)*
+
+Xtreme (ClaraCrazy) Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official, Features of Unleashed, many customizations and bug fixes*
+
+Dexv Firmware: [Main](https://github.com/DXVVAY/Dexvmaster0) | [Release](https://github.com/DXVVAY/Dexvmaster0/releases) *Fork of ClaraCrazy, adds resources*
 
 -----
 
@@ -22,7 +29,8 @@ I've had so many asking for me to add this.<br>
 **BTC**: `3AWgaL3FxquakP15ZVDxr8q8xVTc5Q75dS`<br>
 **BCH**: `17nWCvf2YPMZ3F3H1seX8T149Z9E3BMKXk`<br>
 **ETH**: `0x0f0003fCB0bD9355Ad7B124c30b9F3D860D5E191`<br>
-**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`
+**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`<br>
+**PayPal**: `uberguidoz@gmail.com`
 
 So, here it is. All donations of *any* size are humbly appreciated.<br>
 ![Flipper_Clap](https://user-images.githubusercontent.com/57457139/183561789-2e853ede-8ef7-41e8-a67c-716225177e5d.jpg) ![Flipper_OMG](https://user-images.githubusercontent.com/57457139/183561787-e21bdc1e-b316-4e67-b327-5129503d0313.jpg)
